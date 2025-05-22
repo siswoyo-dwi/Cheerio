@@ -1,0 +1,33 @@
+{
+  "name": "cheerio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siswoyo-dwi/Cheerio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siswoyo-dwi/Cheerio/issues"
+  },
+  "homepage": "https://github.com/siswoyo-dwi/Cheerio#readme",
+  "description": "",
+  "dependencies": {
+    "@langchain/community": "^0.3.44",
+    "@langchain/core": "^0.3.57",
+    "@langchain/openai": "^0.5.11",
+    "axios": "^1.9.0",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.5.0"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.35",
+    "@types/node": "^22.15.21",
+    "typescript": "^5.8.3"
+  }
+}
